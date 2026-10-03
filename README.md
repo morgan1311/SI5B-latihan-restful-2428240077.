@@ -1,10 +1,10 @@
 # Tugas 1: RESTful API Express.js
 
 - **Nama**: Muhammad Ammar Shaddiq
-- **NIM**: <MASUKKAN_NIM_ANDA>
+- **NIM**: <2428240077>
 - **Kelas**: SI5B
 - **Topik**: 17 — Kampus: Jadwal Ujian
-- **Base URL Vercel**: `https://<nama-project-anda>.vercel.app`
+- **Base URL Vercel**: https://vercel.com/ammar2428240077/tugas-2428240077.
 
 ---
 
@@ -12,5 +12,4 @@
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/<username-github>/tugas1-restful-<nim>.git
-   cd tugas1-restful-<nim>
+   git clone https://github.com/morgan1311/si5b_latihan_restful_Ammar_2428240077.
