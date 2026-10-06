@@ -3,7 +3,10 @@
 - **Nama**: Muhammad Ammar Shaddiq
 - **NIM**: <2428240077>
 - **Kelas**: SI5B
-- **Topik**: 17 — Kampus: Jadwal Ujian
+- **Topik**: 17 — Kampus
+- **resource**: jadwal ujian
+- **endpoint**: /exam-schedules'
+- **parameter**: ruang
 - **Base URL Vercel**: https://vercel.com/ammar2428240077/tugas-2428240077.
 
 ---
@@ -13,3 +16,4 @@
 1. Clone repository:
    ```bash
    git clone https://github.com/morgan1311/si5b_latihan_restful_Ammar_2428240077.
+   
